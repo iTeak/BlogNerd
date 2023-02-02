@@ -1,10 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 body { 
-background-color: lightblue; 
+background-color: rgb(255, 255, 255); 
 }
 
 .blogTitle {
   text-decoration: none;
-  color: lightskyblue;
+  color: rgb(20, 88, 130);
 }
 
 .blogDesc {

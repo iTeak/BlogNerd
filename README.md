@@ -9,9 +9,7 @@
   2. Connect to a Mysql database
   3. Deploy on Heroku
 
-  ## Walk Through
 
-  [Walk Through](https://drive.google.com/file/d/1bJRx12cYCGNSYgjBSmi1noAF8zvb2zm2/view)
 
   ## Deployed Link
   
